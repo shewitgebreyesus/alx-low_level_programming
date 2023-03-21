@@ -1,10 +1,7 @@
 #include "main.h"
-
 /**
  * Description - print _putchar that is on pchar[] array  
- *
 */
-
 int main(void)
 {
 	int var = 0;
@@ -16,4 +13,3 @@ int main(void)
 	}
 	return (0);
 }
-
