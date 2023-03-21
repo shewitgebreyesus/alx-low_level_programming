@@ -1,6 +1,8 @@
 #include "main.h"
 /**
- * Description - print _putchar that is on pchar[] array  
+ * main - pchar
+ * Description: print _putchar that is on pchar[] array
+ * Return: 0  
 */
 int main(void)
 {
