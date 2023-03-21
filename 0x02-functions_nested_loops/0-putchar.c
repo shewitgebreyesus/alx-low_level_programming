@@ -1,18 +1,18 @@
 #include "main.h"
 /**
- * main - pchar
- * Description: print _putchar that is on pchar[] array
- * Return: 0  
-*/
+ * main - Print "Holberton" followed by a new line.
+ * Description: You are not allowed to include standard libraries.
+ * Return: 0
+ */
 int main(void)
 {
-	int var = 0;
-	char pchar[10] = "_putchar\n";
-	while (var < 9)
-	{
-		_putchar(pchar[var]);
-		var++;
-	}
-	return (0);
-}
+int c = 0;
+char holberton[10] = "_putchar\n";
 
+while (c < 9)
+{
+_putchar(holberton[c]);
+c++;
+}
+return (0);
+}
