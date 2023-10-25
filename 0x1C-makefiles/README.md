@@ -1,1 +1,1 @@
-read me on makefile
+pointers and arrays in C
